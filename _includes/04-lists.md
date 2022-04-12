@@ -1,3 +1,3 @@
-*cats
-*dogs
-*my bf
+* cats
+* dogs
+* my bf
